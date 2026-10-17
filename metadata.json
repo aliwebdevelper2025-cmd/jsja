@@ -1,0 +1,6 @@
+{
+  "name": "Levish Salon & Luxury Spa - I-8 Markaz",
+  "description": "Premier luxury salon, therapeutic massages, and holistic spa sanctuary in I-8 Markaz, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
